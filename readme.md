@@ -134,6 +134,7 @@ It includes a command-line shell and an associated scripting language.
 - [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent.
 - [PSReflect](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell.
   Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
+- [PoshSec](https://github.com/PoshSec) - Security framework and module with Enterprise/AD focus.
 
 ## Testing
 
